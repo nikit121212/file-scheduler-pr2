@@ -1,3 +1,4 @@
+
 # File Scheduler — Практическая работа №2
 
 Файловый шедулер на Python для автоматизации операций с файлами по расписанию.
@@ -29,3 +30,6 @@ python file_scheduler.py delete --task-id 1
 
 # Запустить шедулер
 python file_scheduler.py start
+
+# file-scheduler-pr2
+437c4a331642949db64b9ea5ee3503205b389e2f
