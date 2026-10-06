@@ -1,0 +1,36 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Виртуальное окружение ===
+venv/
+env/
+ENV/
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# === Логи (не пушим в репозиторий) ===
+*.log
+scheduler.log
+simple_scheduler.log
+
+# === ОС ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Тестовые файлы (опционально) ===
+test.txt
+test_copy.txt
+backup.zip
